@@ -1,6 +1,7 @@
 package com.prakhar.systemdesign.snakesandladder.app;
 
 import java.util.Scanner;
+import lombok.*;
 
 
 
